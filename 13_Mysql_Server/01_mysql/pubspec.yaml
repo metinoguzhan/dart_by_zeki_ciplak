@@ -1,0 +1,4 @@
+name: sql
+
+dependencies:
+  mysql1: ^0.17.0+1

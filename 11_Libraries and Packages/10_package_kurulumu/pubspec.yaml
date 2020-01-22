@@ -1,0 +1,4 @@
+name: dart_dersleri
+
+dependencies:
+  http: ^0.12.0+2

@@ -1,0 +1,5 @@
+name: dart_dersleri
+
+dependencies:
+  image: ^2.1.9
+  http: ^0.12.0+2
